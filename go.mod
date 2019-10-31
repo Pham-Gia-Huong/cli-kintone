@@ -1,6 +1,6 @@
 module github.com/trinhhunganh/cli-kintone
 
-go 1.9.3
+go 1.13.3
 
 require (
 	github.com/howeyc/gopass v0.0.0-20170109162249-bf9dde6d0d2c
