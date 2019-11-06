@@ -38,7 +38,7 @@ script:
 deploy:
   provider: releases
   api_key:
-    secure: "ad1451f737754af3e7d0b5c32a104647f056b8ec"
+    secure: "911bfa67d109b5208b02f2340c390908d9adc002"
   file:
     - "linux-x64.zip"
     - "macos-x64.zip"
